@@ -47,7 +47,7 @@ Untuk mencapai tujuan analisis maka diperlukan pemahaman data, berikut informasi
 |High| Harga tertinggi IHSG yang tercatat pada hari tersebut|
 |Low| Harga terendah IHSG yang tercatat pada hari tersebut.|
 |Vol.| Volume transaksi|
-|Change | %	Persentase perubahan harga IHSG dibandingkan dengan hari sebelumnya. Contoh: 0.13% berarti harga naik 0.13% dibanding hari sebelumnya|
+|Change  %	|Persentase perubahan harga IHSG dibandingkan dengan hari sebelumnya. Contoh: 0.13% berarti harga naik 0.13% dibanding hari sebelumnya|
 
 **2. Mempunyai baris berjumlah 8500**
 
